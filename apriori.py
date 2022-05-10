@@ -13,4 +13,8 @@ df = pd.DataFrame(te_ary, columns=te.columns_)
 
 frq_items = apriori(df, min_support = 0.006)
 association = association_rules(frq_items, metric ="confidence", min_threshold = 0.085)
-print(association)
+
+association["antecedents"] = association["antecedents"].apply(lambda x: list(x)[0]).astype("unicode")
+association["consequents"] = association["consequents"].apply(lambda x: list(x)[0]).astype("unicode")
+
+association.to_csv('Apriori.csv', index = False)

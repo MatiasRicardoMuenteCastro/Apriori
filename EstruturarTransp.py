@@ -47,7 +47,7 @@ for i in df["Product_ID"]:
     intVetorProduct_ID.append(tempArray)
 
 dfTratado = pd.DataFrame({"Order_ID": intVetorOrder_ID, "Product_ID": intVetorProduct_ID})
-print(dfTratado)
+
 dfTratado.to_csv("Transp.csv", index = False)
 
 
