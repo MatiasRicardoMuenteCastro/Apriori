@@ -1,19 +1,6 @@
 import numpy as np
 import pandas as pd
 
-#Coloque o id da ordem, para encontrar as linhas em que ele aparece
-"""
-def buscadorDeLinhaPeloOrderId(order_id):
-    count = 0
-    for i in df['order_id']:
-        if i == order_id:
-            print(df.iloc[count])
-            print("\n")
-        count = count+1
-"""
-#df = pd.read_csv('./order_products__train.csv')
-#buscadorDeLinhaPeloOrderId(1)
-
 texto = open('./transp.txt','r')
 textoLido = texto.read()
 
