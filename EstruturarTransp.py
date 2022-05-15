@@ -48,7 +48,7 @@ for i in df["Product_ID"]:
 
 dfTratado = pd.DataFrame({"Order_ID": intVetorOrder_ID, "Product_ID": intVetorProduct_ID})
 
-dfTratado.to_csv("Transp.csv", index = False)
+dfTratado.to_csv("./Data/Transp.csv", index = False)
 
 
 

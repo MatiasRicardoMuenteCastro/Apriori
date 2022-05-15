@@ -1,0 +1,96 @@
+antecedents;consequents;aisle_antecedents;aisle_consequents;support;confidence
+Caesar Rules Dressing;Organic Tortilla Chips Blue Corn With Flax;salad dressing toppings;chips pretzels;0.0081625498250882;28.47%
+Pearl Plastic Unscented Multipack;Organic Tortilla Chips Blue Corn With Flax;feminine care;chips pretzels;0.0088560998102264;28.63%
+Honeycrisp Apple Wheat Beer;Organic Tortilla Chips Blue Corn With Flax;beers coolers;chips pretzels;0.006592535573017;27.88%
+Gel Scar Treatment;Cherries Rainer Organic;first aid;fresh fruits;0.0081320641114557;30.44%
+Brie Soft-Ripened Cheese Wheel;Organic Tortilla Chips Blue Corn With Flax;packaged cheese;chips pretzels;0.0070498212775038;31.55%
+Deep Cleansing Nose/Face Combo Pore Strips;Cherries Rainer Organic;facial care;fresh fruits;0.0061352498685303;21.08%
+Traditional Italian-Style Wedding Soup;Cherries Rainer Organic;soup broth bouillon;fresh fruits;0.0074156498410932;33.66%
+Honey Cinnamon Almonds;Cherries Rainer Organic;nuts seeds dried fruit;fresh fruits;0.023428270926537;28.22%
+Cherries Rainer Organic;Honey Cinnamon Almonds;fresh fruits;nuts seeds dried fruit;0.023428270926537;19.86%
+Baby's Super Daily Liquid Vitamin D Drops;Cherries Rainer Organic;vitamins supplements;fresh fruits;0.0170415139205389;22.85%
+Cherries Rainer Organic;Baby's Super Daily Liquid Vitamin D Drops;fresh fruits;vitamins supplements;0.0170415139205389;14.44%
+White Wine & Garlic Sauces Skillet Shrimp Scampi;Cherries Rainer Organic;marinades meat preparation;fresh fruits;0.0076214284081122;23.31%
+White Bean Chili Starter with Roasted New Mexico green chile;Cherries Rainer Organic;latino foods;fresh fruits;0.0069507427081983;21.93%
+Coconut Shrimp;Cherries Rainer Organic;seafood counter;fresh fruits;0.0071031712763606;15.45%
+Corn Tortillas Gluren Free;Cherries Rainer Organic;tortillas flat bread;fresh fruits;0.0085207569602694;22.78%
+Italian Squash;Cherries Rainer Organic;fresh vegetables;fresh fruits;0.0135661425664398;32.10%
+Cherries Rainer Organic;Italian Squash;fresh fruits;fresh vegetables;0.0135661425664398;11.50%
+Hot Raw Hummus;Cherries Rainer Organic;preserved dips spreads;fresh fruits;0.0096639712214863;27.49%
+Matches, Strike On Box, Large Kitchen;Cherries Rainer Organic;more household;fresh fruits;0.0061733570105709;28.84%
+Organic Gluten Free Yellow Cornmeal;Cherries Rainer Organic;baking ingredients;fresh fruits;0.0086655641000236;22.90%
+Cage Free White Omega 3 Eggs;Cherries Rainer Organic;eggs;fresh fruits;0.006249571294652;21.45%
+Organic Black Sesame Seeds;Cherries Rainer Organic;spices seasonings;fresh fruits;0.0062876784366926;22.94%
+Brewer's Yeast Powder;Cherries Rainer Organic;vitamins supplements;fresh fruits;0.0079339069728448;22.68%
+Salmon Dinner Classic Pate Cat Food;Cherries Rainer Organic;cat food care;fresh fruits;0.0184438567476316;33.18%
+Cherries Rainer Organic;Salmon Dinner Classic Pate Cat Food;fresh fruits;cat food care;0.0184438567476316;15.63%
+Sauce, Duck, All Natural, Jar;Cherries Rainer Organic;asian foods;fresh fruits;0.0080558498273746;12.99%
+Extra Crispy Tator Tots;Cherries Rainer Organic;frozen appetizers sides;fresh fruits;0.0081549283966801;14.44%
+Sandies Toffee Shortbread Cookies;Organic Tortilla Chips Blue Corn With Flax;cookies cakes;chips pretzels;0.0148465425390026;30.00%
+Organic Tortilla Chips Blue Corn With Flax;Sandies Toffee Shortbread Cookies;chips pretzels;cookies cakes;0.0148465425390026;10.40%
+Baby's Super Daily Liquid Vitamin D Drops;Honey Cinnamon Almonds;vitamins supplements;nuts seeds dried fruit;0.0124915211608959;16.75%
+Honey Cinnamon Almonds;Baby's Super Daily Liquid Vitamin D Drops;nuts seeds dried fruit;vitamins supplements;0.0124915211608959;15.04%
+Honey Cinnamon Almonds;Organic Tortilla Chips Blue Corn With Flax;nuts seeds dried fruit;chips pretzels;0.016568985359236;19.96%
+Organic Tortilla Chips Blue Corn With Flax;Honey Cinnamon Almonds;chips pretzels;nuts seeds dried fruit;0.016568985359236;11.61%
+Coconut Shrimp;Honey Cinnamon Almonds;seafood counter;nuts seeds dried fruit;0.0062267070094277;13.54%
+Corn Tortillas Gluren Free;Honey Cinnamon Almonds;tortillas flat bread;nuts seeds dried fruit;0.007270842701339;19.44%
+Honey Cinnamon Almonds;Corn Tortillas Gluren Free;nuts seeds dried fruit;tortillas flat bread;0.007270842701339;8.76%
+Italian Squash;Honey Cinnamon Almonds;fresh vegetables;nuts seeds dried fruit;0.0127277854415474;30.11%
+Honey Cinnamon Almonds;Italian Squash;nuts seeds dried fruit;fresh vegetables;0.0127277854415474;15.33%
+Hot Raw Hummus;Honey Cinnamon Almonds;preserved dips spreads;nuts seeds dried fruit;0.0078653141171718;22.37%
+Honey Cinnamon Almonds;Hot Raw Hummus;nuts seeds dried fruit;preserved dips spreads;0.0078653141171718;9.47%
+Organic Gluten Free Yellow Cornmeal;Honey Cinnamon Almonds;baking ingredients;nuts seeds dried fruit;0.0096715926498944;25.55%
+Honey Cinnamon Almonds;Organic Gluten Free Yellow Cornmeal;nuts seeds dried fruit;baking ingredients;0.0096715926498944;11.65%
+Salmon Dinner Classic Pate Cat Food;Honey Cinnamon Almonds;cat food care;nuts seeds dried fruit;0.0117293783200847;21.10%
+Honey Cinnamon Almonds;Salmon Dinner Classic Pate Cat Food;nuts seeds dried fruit;cat food care;0.0117293783200847;14.13%
+Sauce, Duck, All Natural, Jar;Honey Cinnamon Almonds;asian foods;nuts seeds dried fruit;0.0077509926910501;12.50%
+Honey Cinnamon Almonds;Sauce, Duck, All Natural, Jar;nuts seeds dried fruit;asian foods;0.0077509926910501;9.34%
+Extra Crispy Tator Tots;Honey Cinnamon Almonds;frozen appetizers sides;nuts seeds dried fruit;0.0082921141080261;14.68%
+Honey Cinnamon Almonds;Extra Crispy Tator Tots;nuts seeds dried fruit;frozen appetizers sides;0.0082921141080261;9.99%
+Baby's Super Daily Liquid Vitamin D Drops;Organic Tortilla Chips Blue Corn With Flax;vitamins supplements;chips pretzels;0.0152428568162244;20.44%
+Organic Tortilla Chips Blue Corn With Flax;Baby's Super Daily Liquid Vitamin D Drops;chips pretzels;vitamins supplements;0.0152428568162244;10.68%
+White Bean Chili Starter with Roasted New Mexico green chile;Baby's Super Daily Liquid Vitamin D Drops;latino foods;vitamins supplements;0.0062648141514682;19.77%
+Coconut Shrimp;Baby's Super Daily Liquid Vitamin D Drops;seafood counter;vitamins supplements;0.0071565212752174;15.56%
+Baby's Super Daily Liquid Vitamin D Drops;Coconut Shrimp;vitamins supplements;seafood counter;0.0071565212752174;9.60%
+Hot Raw Hummus;Baby's Super Daily Liquid Vitamin D Drops;preserved dips spreads;vitamins supplements;0.0071107927047687;20.23%
+Baby's Super Daily Liquid Vitamin D Drops;Hot Raw Hummus;vitamins supplements;preserved dips spreads;0.0071107927047687;9.54%
+Baby's Super Daily Liquid Vitamin D Drops;Cage Free White Omega 3 Eggs;vitamins supplements;eggs;0.0064629712900791;8.67%
+Cage Free White Omega 3 Eggs;Baby's Super Daily Liquid Vitamin D Drops;eggs;vitamins supplements;0.0064629712900791;22.18%
+Brewer's Yeast Powder;Baby's Super Daily Liquid Vitamin D Drops;vitamins supplements;vitamins supplements;0.0072403569877066;20.70%
+Baby's Super Daily Liquid Vitamin D Drops;Brewer's Yeast Powder;vitamins supplements;vitamins supplements;0.0072403569877066;9.71%
+Baby's Super Daily Liquid Vitamin D Drops;Salmon Dinner Classic Pate Cat Food;vitamins supplements;cat food care;0.0095420283669565;12.80%
+Salmon Dinner Classic Pate Cat Food;Baby's Super Daily Liquid Vitamin D Drops;cat food care;vitamins supplements;0.0095420283669565;17.17%
+Sauce, Duck, All Natural, Jar;Baby's Super Daily Liquid Vitamin D Drops;asian foods;vitamins supplements;0.0094353283692429;15.22%
+Baby's Super Daily Liquid Vitamin D Drops;Sauce, Duck, All Natural, Jar;vitamins supplements;asian foods;0.0094353283692429;12.65%
+Extra Crispy Tator Tots;Baby's Super Daily Liquid Vitamin D Drops;frozen appetizers sides;vitamins supplements;0.0106852426281733;18.92%
+Baby's Super Daily Liquid Vitamin D Drops;Extra Crispy Tator Tots;vitamins supplements;frozen appetizers sides;0.0106852426281733;14.33%
+White Wine & Garlic Sauces Skillet Shrimp Scampi;White Bean Chili Starter with Roasted New Mexico green chile;marinades meat preparation;latino foods;0.0064782141468954;19.81%
+White Bean Chili Starter with Roasted New Mexico green chile;White Wine & Garlic Sauces Skillet Shrimp Scampi;latino foods;marinades meat preparation;0.0064782141468954;20.44%
+eat your vegetables Vegetable Chips Sour Cream & Onion;Organic Tortilla Chips Blue Corn With Flax;crackers;chips pretzels;0.006386757005998;28.85%
+Coconut Shrimp;Organic Tortilla Chips Blue Corn With Flax;seafood counter;chips pretzels;0.0101441212111974;22.06%
+Corn Tortillas Gluren Free;Organic Tortilla Chips Blue Corn With Flax;tortillas flat bread;chips pretzels;0.0079567712580691;21.27%
+Italian Squash;Organic Tortilla Chips Blue Corn With Flax;fresh vegetables;chips pretzels;0.0068516641388929;16.21%
+Temples Earl Gray Strong Tea;Organic Tortilla Chips Blue Corn With Flax;tea;chips pretzels;0.0092219283738158;37.15%
+Hot Raw Hummus;Organic Tortilla Chips Blue Corn With Flax;preserved dips spreads;chips pretzels;0.0063334070071412;18.01%
+Organic Gluten Free Yellow Cornmeal;Organic Tortilla Chips Blue Corn With Flax;baking ingredients;chips pretzels;0.0070498212775038;18.63%
+Cage Free White Omega 3 Eggs;Organic Tortilla Chips Blue Corn With Flax;eggs;chips pretzels;0.0066230212866495;22.73%
+Brewer's Yeast Powder;Organic Tortilla Chips Blue Corn With Flax;vitamins supplements;chips pretzels;0.0071565212752174;20.46%
+Oregon Strawberry Preserves;Organic Tortilla Chips Blue Corn With Flax;spreads;chips pretzels;0.0093819783703861;34.67%
+Even Thinner Limited Edition Crackers;Organic Tortilla Chips Blue Corn With Flax;crackers;chips pretzels;0.006043792727633;20.50%
+Salmon Dinner Classic Pate Cat Food;Organic Tortilla Chips Blue Corn With Flax;cat food care;chips pretzels;0.0072174927024823;12.99%
+Sauce, Duck, All Natural, Jar;Organic Tortilla Chips Blue Corn With Flax;asian foods;chips pretzels;0.0164470425047062;26.53%
+Organic Tortilla Chips Blue Corn With Flax;Sauce, Duck, All Natural, Jar;chips pretzels;asian foods;0.0164470425047062;11.52%
+Extra Crispy Tator Tots;Organic Tortilla Chips Blue Corn With Flax;frozen appetizers sides;chips pretzels;0.0168890853523767;29.91%
+Organic Tortilla Chips Blue Corn With Flax;Extra Crispy Tator Tots;chips pretzels;frozen appetizers sides;0.0168890853523767;11.83%
+Coconut Shrimp;Unstopables Fresh In-Wash Scent Booster;seafood counter;laundry;0.007674778406969;16.69%
+Unstopables Fresh In-Wash Scent Booster;Coconut Shrimp;laundry;seafood counter;0.007674778406969;28.56%
+Coconut Shrimp;Sauce, Duck, All Natural, Jar;seafood counter;asian foods;0.012156178310939;26.44%
+Sauce, Duck, All Natural, Jar;Coconut Shrimp;asian foods;seafood counter;0.012156178310939;19.61%
+Coconut Shrimp;Extra Crispy Tator Tots;seafood counter;frozen appetizers sides;0.0079034212592124;17.19%
+Extra Crispy Tator Tots;Coconut Shrimp;frozen appetizers sides;seafood counter;0.0079034212592124;14.00%
+Italian Squash;Salmon Dinner Classic Pate Cat Food;fresh vegetables;cat food care;0.0077662355478663;18.37%
+Salmon Dinner Classic Pate Cat Food;Italian Squash;cat food care;fresh vegetables;0.0077662355478663;13.97%
+Hot Raw Hummus;Salmon Dinner Classic Pate Cat Food;preserved dips spreads;cat food care;0.0063334070071412;18.01%
+Salmon Dinner Classic Pate Cat Food;Hot Raw Hummus;cat food care;preserved dips spreads;0.0063334070071412;11.39%
+Extra Crispy Tator Tots;Sauce, Duck, All Natural, Jar;frozen appetizers sides;asian foods;0.0102813069225434;18.21%
+Sauce, Duck, All Natural, Jar;Extra Crispy Tator Tots;asian foods;frozen appetizers sides;0.0102813069225434;16.58%

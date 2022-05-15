@@ -2,8 +2,7 @@ import ast
 import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 from mlxtend.preprocessing import TransactionEncoder
-
-df = pd.read_csv("./Transp.csv")
+df = pd.read_csv("./Data/Transp.csv")
 Product_ID = df["Product_ID"]
 Product_ID = Product_ID.apply(ast.literal_eval)
 
@@ -17,4 +16,4 @@ association = association_rules(frq_items, metric ="confidence", min_threshold =
 association["antecedents"] = association["antecedents"].apply(lambda x: list(x)[0]).astype("unicode")
 association["consequents"] = association["consequents"].apply(lambda x: list(x)[0]).astype("unicode")
 
-association.to_csv('Apriori.csv', index = False)
+association.to_csv('./Data/Apriori.csv', index = False)
