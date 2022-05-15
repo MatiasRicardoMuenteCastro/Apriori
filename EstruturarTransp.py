@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-texto = open('./transp.txt','r')
+texto = open('./Data/transp.txt','r')
 textoLido = texto.read()
 
 linhas = textoLido.split("\n")
